@@ -1,0 +1,2 @@
+### Hexlet tests and linter status:
+[![Actions Status](https://github.com/Ogurchik00/js-async-project-4/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Ogurchik00/js-async-project-4/actions)
